@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enesfurkanoz
-- 👀 I’m interested in Web design and development
-- 🌱 I’m currently learning html, sass, nodejs and Angularjs + designing
+- 👀 I’m interested in Backend web development and software architecture
+- 🌱 I’m currently learning typescript, nodejs, nestjs and microservices. 
 
 
 <!---
