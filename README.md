@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enesfurkanoz
-- 👀 I’m interested in Backend web development and software architecture
-- 🌱 I’m currently learning typescript, nodejs, nestjs and microservices. 
+- 👀 I’m interested in api development and software architecture
+- 🌱 I’m currently experienting on C++, C#, .Net Core and Microservices Architecture. 
 
 
 <!---
