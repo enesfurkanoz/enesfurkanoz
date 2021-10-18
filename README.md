@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">A software engineer/ backend developer.</h3>
-
+<h3 align="center">A software engineer/developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesfurkanoz&label=Profile%20views&color=0e75b6&style=flat" alt="enesfurkanoz" /> </p>
 
 - 🔭 I’m currently working on **several projects**
