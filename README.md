@@ -3,6 +3,10 @@
 <p align="center">
   🌱 I’m currently learning <b>C++, OpenGL</b>
  </p>
+ 
+ <p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=enesfurkanoz&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align='center'>
   <a href="https://www.linkedin.com/in/enesfurkanoz/">
@@ -23,12 +27,15 @@
 
 
 <h3 align="left">Frameworks:</h3>
-<img align="left" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></img>
-<img align="center" src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"></img>
+<p align="left">
+<img  src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></img>
+<img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"></img>
 
+ </p>
 <h3 align="left">Tools and IDEs:</h3>
-<img align="left" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></img>
-<img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
-<img align="center" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"></img>
+<p align="left">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></img>
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"></img>
+</p>
 </p>
 
